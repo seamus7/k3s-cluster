@@ -5,7 +5,7 @@ metadata:
 spec:
   ingressClassName: traefik
   rules:
-    - host: lds.cruxlab.dev
+    - host: lds.cruxlabs.net
       http:
         paths:
           - backend:
